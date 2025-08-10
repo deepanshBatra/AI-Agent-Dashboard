@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+groq
+faiss-cpu
+chromadb
+PyMuPDF
+pandas
